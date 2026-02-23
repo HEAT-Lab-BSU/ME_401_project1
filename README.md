@@ -1,8 +1,8 @@
-﻿# ME 401 project 1 - Renewable Energy Infrastructure Optimization Toolkit
+﻿# ME 401 project 1 - Renewable Energy Infrastructure Optimization Toolkit [OUTDATED]
 
 ## Overview
 
-This software demonstrates how Python can support engineering workflows in energy systems design. It is intended as an educational tool for engineering students working on renewable energy optimization projects.
+If you are in this directory, you are in the wrong place. This is a fork from the original repo. Navigate to 'ME401_project1'
 
 ## Purpose
 
@@ -73,5 +73,6 @@ To download the notebook for upload to Kaggle:
 https://downgit.github.io/#/home?url=https://github.com/maxwellhewes/ME_401_project1/blob/main/notebook/data_analysis_notebook.ipynb
 
 This folder can be uploaded to kaggle, or any other notebook hosting service to run the package.
+
 
 
